@@ -23,12 +23,14 @@ This Ruby script processes two JSON files: `users.json` and `companies.json`, to
 ## Instructions
 
 1. **Clone the Repository**:
+
    ```bash
    git clone https://github.com/your-repo/token-top-up-processor.git
    cd token-top-up-processor
    ```
 
-2. **Run the following command
-  ```bash
-  ruby challenge.rb users.json companies.json output.txt
-  ```
+2. **Run the following command**:
+
+   ```bash
+   ruby challenge.rb users.json companies.json output.txt
+   ```
